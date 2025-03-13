@@ -29,7 +29,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254753347057",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "iShaan Cha🪀✦",
+OWNER_NAME: process.env.OWNER_NAME || "iShaan Chau🪀✦",
 // add bot owner name
 
 DESCRIPTION: process.env.DESCRIPTION || "> *© ishaan Chaucer",
